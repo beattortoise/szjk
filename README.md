@@ -34,3 +34,5 @@ var reusId = '' //最后提交用的，是个人的信息
 
 ![img](http://tiebapic.baidu.com/forum/pic/item/f7246b600c3387449d02a7ce460fd9f9d62aa0b9.jpg)
 
+![img2](http://tiebapic.baidu.com/forum/pic/item/d043ad4bd11373f09b16e42db30f4bfbfbed0452.jpg)
+
